@@ -16,7 +16,7 @@ Beyond the code, I am working on **DaniSoft** — a personal tech brand covering
 ### 🛠️ What I work with
 
 **Data & ML**  
-`Python` `pandas` `numpy` `matplotlib` `scikit-learn` `LangChain` `Chroma`
+`Python` `pandas` `numpy` `matplotlib` `scikit-learn` 
 
 **Databases**  
 `SQL` `PostgreSQL`
